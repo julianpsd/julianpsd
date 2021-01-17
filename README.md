@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Julian Posada
 
-I am a [PhD Candidate](https://ischool.utoronto.ca/profile/julian-posada/) at the University of Toronto. My research studies the experience of Latin American crowdworkers who annotate data for **machine learning** and verify algorithmic outputs through **labour platforms**. I study how social inequalities become reproduced through the **human values** embedded in datasets and algorithms, as well as the gendered and racialized nature of the support that data workers receive through their **social networks** while being employed as independent contractors. I also...
+I am a [PhD Candidate](https://ischool.utoronto.ca/profile/julian-posada/) at the University of Toronto. My research studies the experience of Latin American crowdworkers who annotate data for **machine learning** and verify algorithmic outputs through **labour platforms**. I also...
 
 - 📝 [Research](https://posada.website/publications/) at the **Human Rights in the Digital Era** project at the [Schwartz Reisman Institute](https://srinstitute.utoronto.ca/research).
 - 🧠 [Teach](https://posada.website/teaching/) in the University of Toronto at the Faculty of Information, the Department of Computer Science, and the Institute for Communication, Culture, Information, and Technology.
