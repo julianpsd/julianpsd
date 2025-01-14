@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Julian Posada
 
-I am a [Assistant Professor](https://americanstudies.yale.edu/people/julian-posada) at Yale University. My research studies the experience of Latin American crowdworkers who annotate data for **machine learning** and verify algorithmic outputs through **labor platforms**. 
+I am a [Assistant Professor](https://americanstudies.yale.edu/people/julian-posada) at Yale University. My research integrates theories and methods from information science, sociology, and human-computer interaction to examine the sociocultural dimensions of information technology development and use.
 Learn more about my work @ [posada.website](https://posada.website).
 
 ---
